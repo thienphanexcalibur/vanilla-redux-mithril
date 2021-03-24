@@ -6,7 +6,9 @@
   "dependencies": {
     "mithril": "^2.0.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
